@@ -5,3 +5,4 @@ __Olá meu nobre!__ :call_me_hand:
 Bem vindo ao meu livro de receitas! :blush: 
 
 - Strogonoff de frango
+- Bolo de chocolate
