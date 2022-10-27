@@ -1,5 +1,7 @@
-### Livro de receitas
+### Livro de receitas :man_cook:
 
-Olá meu nobre! Bem vindo ao meu livro de receitas
+__Olá meu nobre!__ :call_me_hand:
 
-- Strogonoff
+Bem vindo ao meu livro de receitas! :blush: 
+
+- Strogonoff de frango
